@@ -11,11 +11,18 @@ As pull requests are merged and this README is updated, the aggregated feed will
 
 ## RSS Feeds
 
-- http://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml
-- http://rss.nytimes.com/services/xml/rss/nyt/MostShared.xml
-- http://rss.nytimes.com/services/xml/rss/nyt/Upshot.xml
-- http://www.nytimes.com/services/xml/rss/nyt/Magazine.xml
-- http://www.nytimes.com/services/xml/rss/nyt/sunday-review.xml
+  - https://www.google.com/alerts/feeds/15349801374406371600/3020644589033681842
+  - https://www.google.com/alerts/feeds/15349801374406371600/3671298862525163557
+  - https://www.google.com/alerts/feeds/15349801374406371600/610144525991812452
+  - https://www.google.com/alerts/feeds/15349801374406371600/821885301883673074
+  - https://www.google.com/alerts/feeds/15349801374406371600/16317114205743916924
+  - https://www.google.com/alerts/feeds/15349801374406371600/1621023483551191395
+  - https://www.google.com/alerts/feeds/15349801374406371600/3743077714605075672
+  - https://www.google.com/alerts/feeds/15349801374406371600/247268169075390418
+  - https://www.google.com/alerts/feeds/15349801374406371600/9651913786136382006
+  - https://www.google.com/alerts/feeds/15349801374406371600/6496764911669033061
+  - https://www.google.com/alerts/feeds/15349801374406371600/8818163910002940090
+  - https://www.google.com/alerts/feeds/15349801374406371600/14656916877071299461
 
 ## Technical Details
 
